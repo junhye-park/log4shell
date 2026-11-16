@@ -1,0 +1,2 @@
+jdk.jndi.object.factoriesFilter=*
+jdk.jndi.ldap.object.factoriesFilter=*

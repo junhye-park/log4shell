@@ -1,0 +1,7 @@
+dn: cn=GadgetPkg,dc=nodomain
+objectClass: top
+objectClass: javaContainer
+objectClass: javaNamingReference
+cn: GadgetPkg
+javaClassName: java.lang.String
+javaFactory: lab.LocalGadgetFactory

